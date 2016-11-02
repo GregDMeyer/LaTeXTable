@@ -10,3 +10,5 @@ Run simply with:
 ~~~~
 python LaTeXtable.py -r <rows> -c <columns>
 ~~~~
+
+... but really why aren't you using [Lyx](https://www.lyx.org/)
